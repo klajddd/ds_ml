@@ -2,4 +2,5 @@
 !.gitignore
 !pr1.ipynb
 !ml_pipeline.ipynb
+!dwarfGPT/
 !dwarfGPT/**
