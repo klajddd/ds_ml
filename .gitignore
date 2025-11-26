@@ -4,3 +4,5 @@
 !ml_pipeline.ipynb
 !dwarfGPT/
 !dwarfGPT/**
+!time_series/
+!time_series/**
